@@ -45,7 +45,7 @@ ADD CREDS.JSON FILE TO SESSION FOLDER AND DEPLOY BELOW
   <a href='https://render-rias-deploy.onrender.com/' target="_blank"><img alt='DEPLOY ON RENDER' src='https://img.shields.io/badge/DEPLOY VIA RENDER-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a> 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=queen-riasv3&repository=riasadmin12%2FQueen-RiasV3&branch=main&build_command=npm+install&run_command=npm+start&instance_type=free&env%5BSESSION_ID%5D=)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/services/deploy?name=queen-riasv3&repository=riasadmin12%2FQueen-RiasV3&branch=main&build_command=npm+install&run_command=npm+start&instance_type=free&env%5BSESSION_ID%5D=)
 ### DEPLOY ON REPLIT
 IF YOU DON'T HAVE A REPLIT ACCOUNT CREATE ONE AND DEPLOY 
     <br>
