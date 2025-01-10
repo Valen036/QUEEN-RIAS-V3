@@ -1,0 +1,37 @@
+ Prefix for commands
+PREFIX=
+
+# Owner information
+OWNER_NAME=
+OWNER_NUMBER=
+
+# Bot mode (public/private)
+MODE=
+
+# Region
+REGION=
+
+# Bot name
+BOT_NAME=
+
+# Sticker pack information
+EXIF_PACK=
+EXIF_AUTHOR=
+
+# Time zone
+TIME_ZONE=
+
+# Presence status (for WhatsApp)
+PRESENCE_STATUS=
+
+# Auto-read messages (true/false)
+AUTO_READ=
+
+# Auto-view status (true/false)
+AUTO_VIEW_STATUS=
+
+# Session ID (if any)
+SESSION_ID=
+
+# Port 
+PORT=
