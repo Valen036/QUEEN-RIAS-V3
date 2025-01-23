@@ -5,7 +5,7 @@ module.exports = {
 
     ownerName: process.env.OWNER_NAME || "Toxxic", // Owner name
 
-    ownerNumber: process.env.OWNER_NUMBER || "2348165846414", // Your WhatsApp number
+    ownerNumber: process.env.OWNER_NUMBER || "2349130539482", // Your WhatsApp number
 
     mode: process.env.MODE || "public", // Bot mode: 'public' or 'private'
 
